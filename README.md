@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Kinetic27&nbsp;<img src="https://github.com/Gingmin/Gingmin/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGingmin%2FGingmin)](https://hits.seeyoufarm.com) 
+# Gingmin&nbsp;<img src="https://github.com/Gingmin/Gingmin/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGingmin%2FGingmin)](https://hits.seeyoufarm.com) 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Gingmin's%20Github&fontSize=40)
 
