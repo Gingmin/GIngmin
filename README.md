@@ -35,7 +35,6 @@
 ### Contacts 📫
 
 * Github Repo Issue
-* Twitter DM: @dev_Gingmin
 * Email: threadging@naver.com
 
   <div align=center>
