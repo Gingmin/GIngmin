@@ -35,7 +35,7 @@
 ### Contacts 📫
 
 * Github Repo Issue
-* Email: threadging@naver.com
+* Email: threadging@gmail.com
 
   <div align=center>
   
