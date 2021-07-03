@@ -17,12 +17,6 @@
 
 ![Gingmin's github stats](https://github-readme-stats.vercel.app/api?username=Gingmin&show_icons=true)
 
-### Online Judge 💻
-
-* BOJ: [Gingmin](http://icpc.me/kinetic27)
-  * solvedac: [Gingmin](https://solved.ac/profile/Gingmin)
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Gingmin)](https://solved.ac/Gingmin)
 
 <!--
 ### Project ⚡
