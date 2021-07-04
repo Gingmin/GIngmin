@@ -5,12 +5,10 @@
 
 ![Gingmin's github stats](https://github-readme-stats.vercel.app/api?username=Gingmin&show_icons=true)
 
-
-<!--
-### Project ⚡
-
-* Development Diary Blog([blog](https://Gingmin.github.io))
-* [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown): Advanced Algorithm Introduction
-* [814Solver](https://github.com/kimjg1119/814Solver): [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
--->
+## Carrer
+| Type              | Date             | Contents                                             | Organization                   |
+|-------------------|------------------|------------------------------------------------------|--------------------------------|
+| Education 🏫      | 2014.3 ~ 2020.8  | Department of Media Creative Writing                 | Korea University Sejong Campus |
+| Academy           | 2020.11 ~ 2021.4 | Java Programming(Oracle, HTML, CSS, MyBatis, Spring) | TJoeun                         |
+| Employment 💻 | 2021.6.16 ~      | Java Web Developer                                   | Purplemint                     |
 
