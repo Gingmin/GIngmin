@@ -25,4 +25,3 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/dev_Gingmin?label=Follow%20me&style=social)](https://twitter.com/dev_Gingmin)
   </div>
   
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
