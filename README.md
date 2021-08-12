@@ -4,6 +4,7 @@
 
 ![Gingmin's github stats](https://github-readme-stats.vercel.app/api?username=Gingmin&show_icons=true)&nbsp;&nbsp;![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gingmin&langs_count=3)
 
+<https://gingmin.tistory.com/>
   
 ## Career
 | Type              | Date             | Contents                                             | Organization                   |
