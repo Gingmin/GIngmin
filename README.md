@@ -3,8 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGingmin%2FGingmin)](https://hits.seeyoufarm.com) 
 
 ![Gingmin's github stats](https://github-readme-stats.vercel.app/api?username=Gingmin&show_icons=true)&nbsp;&nbsp;![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gingmin&langs_count=3)
-
-<https://gingmin.tistory.com/>
   
 ## Career
 | Type              | Date             | Contents                                             | Organization                   |
@@ -15,3 +13,6 @@
 
 ## Languages
 ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white)
+
+## Blog
+<https://gingmin.tistory.com/>
