@@ -9,7 +9,7 @@
 |-------------------|------------------|------------------------------------------------------|--------------------------------|
 | Education 🏫      | 2014.3 ~ 2020.8  | Department of Media Creative Writing                 | Korea University Sejong Campus |
 | Academy           | 2020.11 ~ 2021.4 | Java Programming(Oracle, HTML, CSS, MyBatis, Spring) | TJoeun                         |
-| Employment 💻 | 2021.6.16 ~      | Java Web Developer                                   |                      |
+| Employment 💻 | 2021.6.16 ~      | Java Server Developer                                   |                      |
 
 ## Languages
 ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white)
