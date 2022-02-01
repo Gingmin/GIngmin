@@ -7,7 +7,6 @@
 ## Career
 | Type              | Date             | Contents                                             | Organization                   |
 |-------------------|------------------|------------------------------------------------------|--------------------------------|
-| Education 🏫      | 2014.3 ~ 2020.8  | Department of Media Creative Writing                 | Korea University Sejong Campus |
 | Academy           | 2020.11 ~ 2021.4 | Java Programming(Oracle, HTML, CSS, MyBatis, Spring) | TJoeun                         |
 | Employment 💻 | 2021.12.01 ~      | Java Server & Front-end Developer                       |                               |
 
