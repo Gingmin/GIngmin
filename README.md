@@ -7,7 +7,7 @@
 ## Career
 | Type              | Date             | Contents                                             | Organization                   |
 |-------------------|------------------|------------------------------------------------------|--------------------------------|
-| Academy           | 2020.11 ~ 2021.4 | Java Programming(Oracle, HTML, CSS, MyBatis, Spring) | TJoeun                         |
+| Academy           | 2020.11 ~ 2021.4 | Java Programming(Oracle, HTML, CSS, MyBatis, Spring) | TJoeun                             |
 | Employment 💻 | 2021.12.01 ~      | Java Server & Front-end Developer                      |                                                                          | 
  
 ## Languages
