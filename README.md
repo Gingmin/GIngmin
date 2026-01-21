@@ -18,7 +18,7 @@
 - WebGL (고성능 그래픽 처리)
 
 ## 📫 Contact
-- 📧 [이메일]
+- 📧 kkmk220@naver.com
 - 📝 Blog: [gingmin.tistory.com](https://gingmin.tistory.com/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gingmin&show_icons=true)
